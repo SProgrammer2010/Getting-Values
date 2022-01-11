@@ -1,3 +1,3 @@
 # Getting-Values
 
-This repository contains Java and Python files to work with arrays.
+This repository contains Java, Python and JavaScrpt files to work with arrays.
